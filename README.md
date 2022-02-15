@@ -1,2 +1,1 @@
-https://sydneys00.github.io/SS_HeroBorn_Productions/
- Production assignments for HeroBorn game 
+More Pickups Production link: https://sydneys00.github.io/SS_HeroBorn_Productions/
